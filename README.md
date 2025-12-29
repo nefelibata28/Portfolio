@@ -9,22 +9,20 @@ This repository serves as a central hub for my academic and personal projects.
 ## Data Analyst Projects
 
 | Project | Type | Focus | Tools | Link |
-|-------|------|------|------|        |
-| Loan Default Prediction | Personal/ Academic | Classification & feature engineering | Python, Scikit-learn | [Repo](link) |
+|-------|------|------|------|------|
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | [Repo](link) |
 
 
 ## Data Science & Machine Learning Projects
-
-| Project | Focus | Tools | Link |
-|-------|------|------|------|
-| Loan Default Prediction | Classification & feature engineering | Python, Scikit-learn | [Repo](link) |
-
+| Project | Type | Focus | Tools | Link |
+|-------|------|------|------|------|
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | [Repo](link) |
 
 ## UX/UI Projects
 
-| Project | Focus | Tools | Link |
-|-------|------|------|------|
-| Loan Default Prediction | Classification & feature engineering | Python, Scikit-learn | [Repo](link) |
+| Project | Type | Focus | Tools | Link |
+|-------|------|------|------|------|
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | [Repo](link) |
 
 
 ## Others
@@ -56,3 +54,16 @@ This repository serves as a central hub for my academic and personal projects.
 - **Statistics:** A/B testing, hypothesis testing, regression
 - **Databases:** MySQL, PostgreSQL
 - **Tools:** Git, Jupyter, VS Code
+
+
+Contact
+
+LinkedIn: [Your LinkedIn URL]
+
+GitHub: [Your GitHub Profile]
+
+Email: your.email@example.com
+
+Career Goal
+
+I am actively seeking entry-level / new graduate Data Analyst positions where I can contribute strong analytical skills, business thinking, and cross-functional experience.
