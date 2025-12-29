@@ -1,10 +1,38 @@
 # Portfolio
 
-# 🎓 Data Science & Visualisation Portfolio
+Hi, I am Nancy! 
+Welcome to my project portfolio! I am a graduating student with hands-on experience in data analytics, data science, UX/UI research, and software engineering.
+My primary interest is in full-time Data Analyst roles, where I can use data to drive insights, improve decision-making, and communicate findings clearly to stakeholders. 
 
-Welcome to my project portfolio! This repository provides an overview of my academic and personal projects related to Data Visualisation, Machine Learning, and Analytics.
+This repository serves as a central hub for my academic and personal projects.
 
----
+## Data Analyst Projects
+
+| Project | Type | Focus | Tools | Link |
+|-------|------|------|------|        |
+| Loan Default Prediction | Personal/ Academic | Classification & feature engineering | Python, Scikit-learn | [Repo](link) |
+
+
+## Data Science & Machine Learning Projects
+
+| Project | Focus | Tools | Link |
+|-------|------|------|------|
+| Loan Default Prediction | Classification & feature engineering | Python, Scikit-learn | [Repo](link) |
+
+
+## UX/UI Projects
+
+| Project | Focus | Tools | Link |
+|-------|------|------|------|
+| Loan Default Prediction | Classification & feature engineering | Python, Scikit-learn | [Repo](link) |
+
+
+## Others
+
+| Project | Focus | Tools | Link |
+|-------|------|------|------|
+| Loan Default Prediction | Classification & feature engineering | Python, Scikit-learn | [Repo](link) |
+
 
 ### 📊 [SC4024/CZ4124 Data Visualisation Project](https://github.com/nancy-bhati/data-visualisation-project)
 - **Topic:** Exploratory and explanatory data storytelling  
@@ -21,4 +49,10 @@ Welcome to my project portfolio! This repository provides an overview of my acad
 
 ---
 
-*(More projects coming soon!)*
+## Core Skills
+
+- **Data Analysis:** SQL, Python (Pandas, NumPy), Excel
+- **Visualization:** Tableau, Power BI, Matplotlib, Seaborn
+- **Statistics:** A/B testing, hypothesis testing, regression
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Git, Jupyter, VS Code
