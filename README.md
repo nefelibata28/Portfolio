@@ -1,28 +1,30 @@
 # Portfolio
 
-## Hi, I am Nancy! 
-Welcome to my project portfolio! I am a graduating student with hands-on experience in data analytics, data science, UX/UI research, and software engineering.
-My primary interest is in ### full-time Data Analyst roles, where I can use data to drive insights, improve decision-making, and communicate findings clearly to stakeholders. 
+## Hi, I’m Nancy!
+I am a graduating student with hands-on experience in **data analytics, data science, UX/UI research, and software engineering**.
 
-This repository serves as a central hub for my academic and personal projects.
+My primary interest is in **full-time Data Analyst roles**, where I use data to generate insights, support decision-making, and clearly communicate findings to stakeholders.
 
+This repository serves as a **central hub** linking my academic and personal projects.
+
+---
 ## Data Analyst Projects
 
 | Project | Type | Focus | Tools | Link |
 |-------|------|------|------|------|
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | [Repo](link) |
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | [View Project](link) |
 
 
 ## Data Science & Machine Learning Projects
 | Project | Type | Focus | Tools | Link |
 |-------|------|------|------|------|
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | [Repo](link) |
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | [View Project](link) |
 
 ## UX/UI Projects
 
 | Project | Type | Focus | Tools | Link |
 |-------|------|------|------|------|
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | [Repo](link) |
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | [View Project](link) |
 
 
 ## Others
@@ -47,23 +49,31 @@ This repository serves as a central hub for my academic and personal projects.
 
 ---
 
+
 ## Core Skills
 
-- **Data Analysis:** SQL, Python (Pandas, NumPy), Excel
-- **Visualization:** Tableau, Power BI, Matplotlib, Seaborn
-- **Statistics:** A/B testing, hypothesis testing, regression
-- **Databases:** MySQL, PostgreSQL
-- **Tools:** Git, Jupyter, VS Code
+| Data Analytics | Visualization | Statistics | Tools & Databases |
+|--------------|--------------|------------|------------------|
+| SQL | Tableau | Hypothesis Testing | Git |
+| Python (Pandas, NumPy) | Power BI | A/B Testing | Jupyter Notebook |
+| Excel (Pivot Tables) | Matplotlib | Regression Analysis | VS Code |
+| Data Cleaning & EDA | Seaborn | Descriptive Statistics | MySQL, PostgreSQL |
+| KPI & Business Analysis | Dashboards | Probability | GitHub 
+---
 
+## Certifications
+- [Certificate Name]
+- [Certificate Name]
+- [Certificate Name]
 
-Contact
+---
 
-LinkedIn: [Your LinkedIn URL]
+## Contact
+- **LinkedIn:** [Your LinkedIn URL]
+- **GitHub:** https://github.com/nancy-bhati
+- **Email:** your.email@example.com
 
-GitHub: [Your GitHub Profile]
+---
 
-Email: your.email@example.com
-
-Career Goal
-
-I am actively seeking entry-level / new graduate Data Analyst positions where I can contribute strong analytical skills, business thinking, and cross-functional experience.
+## Career Goal
+I am actively seeking **entry-level / new graduate Data Analyst roles** where I can contribute strong analytical skills, business-focused insights, and cross-functional experience.
