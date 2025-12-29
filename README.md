@@ -2,7 +2,7 @@
 
 ## Hi, I am Nancy! 
 Welcome to my project portfolio! I am a graduating student with hands-on experience in data analytics, data science, UX/UI research, and software engineering.
-My primary interest is in ###full-time Data Analyst roles, where I can use data to drive insights, improve decision-making, and communicate findings clearly to stakeholders. 
+My primary interest is in ### full-time Data Analyst roles, where I can use data to drive insights, improve decision-making, and communicate findings clearly to stakeholders. 
 
 This repository serves as a central hub for my academic and personal projects.
 
