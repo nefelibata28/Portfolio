@@ -59,7 +59,7 @@ This repository serves as a **central hub** linking my academic and personal pro
 | Excel (Pivot Tables) | Matplotlib | Regression Analysis | VS Code |
 | Data Cleaning & EDA | Seaborn | Descriptive Statistics | MySQL, PostgreSQL |
 | KPI & Business Analysis | Dashboards | Probability | GitHub 
----
+
 
 ## Certifications
 - [Certificate Name]
@@ -72,8 +72,6 @@ This repository serves as a **central hub** linking my academic and personal pro
 - **LinkedIn:** https://www.linkedin.com/in/nancy-bhati-1a442a272/
 - **GitHub:** https://github.com/nancy-bhati
 - **Email:** nancybhati15@gmail.com
-
----
 
 ## Career Goal
 I am actively seeking **entry-level / new graduate Data Analyst roles** where I can contribute strong analytical skills, business-focused insights, and cross-functional experience.
