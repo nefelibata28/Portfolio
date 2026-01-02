@@ -62,9 +62,11 @@ This repository serves as a **central hub** linking my academic and personal pro
 
 
 ## Certifications
-- [Certificate Name]
-- [Certificate Name]
-- [Certificate Name]
+- **[Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/I0412Y14SJL9)**
+- **[Google Business Intelligence](https://www.coursera.org/account/accomplishments/specialization/Q3G3ELHDYPRQ)**
+- **[Google UX Design](https://www.coursera.org/account/accomplishments/specialization/PJ2QESEYTUCY)**
+- **[LinkedIn Python Data Analysis](https://www.linkedin.com/learning/certificates/214a562f0ff7f617746f719db93a31d807b28fdd6960056cdec9f8fd437c890f)**
+- **[LinkedIn Python Statistics Essential Training](https://www.linkedin.com/learning/certificates/f63ad925292addf295f037a5292bbe705abb121d580593cd981ccf2512646e79)**
 
 ---
 
