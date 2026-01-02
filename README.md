@@ -69,7 +69,7 @@ This repository serves as a **central hub** linking my academic and personal pro
 ---
 
 ## Contact
-- **LinkedIn:** [https://www.linkedin.com/in/nancy-bhati-1a442a272/]
+- **LinkedIn:** https://www.linkedin.com/in/nancy-bhati-1a442a272/
 - **GitHub:** https://github.com/nancy-bhati
 - **Email:** nancybhati15@gmail.com
 
