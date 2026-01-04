@@ -9,9 +9,9 @@ This repository serves as a **central hub** linking my academic and personal pro
 ---
 ## Data Analyst Projects
 
-| Project | Type | Focus | Tools | Link |
-|-------|------|------|------|------|
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | [View Project](link) |
+| Project | Category | Objective | Tools | Project Origin | Link |
+|---------|----------|-----------|-------|----------------|------|
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
 
 
 ## Data Science & Machine Learning Projects
