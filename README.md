@@ -15,22 +15,23 @@ This repository serves as a **central hub** linking my academic and personal pro
 
 
 ## Data Science & Machine Learning Projects
-| Project | Type | Focus | Tools | Link |
-|-------|------|------|------|------|
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | [View Project](link) |
+| Project | Category | Objective | Tools | Project Origin | Link |
+|---------|----------|-----------|-------|----------------|------|
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
 
 ## UX/UI Projects
 
 | Project | Type | Focus | Tools | Link |
-|-------|------|------|------|------|
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | [View Project](link) |
+| Project | Category | Objective | Tools | Project Origin | Link |
+|---------|----------|-----------|-------|----------------|------|
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
 
 
 ## Others
 
-| Project | Focus | Tools | Link |
-|-------|------|------|------|
-| Loan Default Prediction | Classification & feature engineering | Python, Scikit-learn | [Repo](link) |
+| Project | Category | Objective | Tools | Project Origin | Link |
+|---------|----------|-----------|-------|----------------|------|
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
 
 
 ### 📊 [SC4024/CZ4124 Data Visualisation Project](https://github.com/nancy-bhati/data-visualisation-project)
