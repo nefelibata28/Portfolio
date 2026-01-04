@@ -2,7 +2,6 @@
 
 ### Hi, I’m Nancy!
 I am a graduating student with hands-on experience in **data analytics, data science, UX/UI research, and software engineering**.
-
 My primary interest is in **full-time Data Analyst roles**, where I use data to generate insights, support decision-making, and clearly communicate findings to stakeholders.
 
 This repository serves as a **central hub** linking my academic and personal projects.
