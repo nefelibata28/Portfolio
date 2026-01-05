@@ -59,7 +59,9 @@ This repository serves as a **central hub** linking my academic and personal pro
 | Excel (Pivot Tables) | Matplotlib | Regression Analysis | VS Code |
 | Data Cleaning & EDA | Seaborn | Descriptive Statistics | MySQL, PostgreSQL |
 | KPI & Business Analysis | Dashboards | Probability | GitHub 
-
+Technical & Data Skills: SQL, Python, Excel, Tableau, A/B Testing
+UX & Design Skills: Figma, User Research, Wireframing, Usability Testing
+Product & Business Skills: Roadmaps, Metrics & KPIs, Prioritization, Stakeholder Communication
 
 ## Certifications
 - **[Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/I0412Y14SJL9)**
@@ -78,4 +80,4 @@ This repository serves as a **central hub** linking my academic and personal pro
 - **Email:** nancybhati15@gmail.com
 
 ## Career Goal
-I am actively seeking **entry-level / new graduate Data Analyst roles** where I can contribute strong analytical skills, business-focused insights, and cross-functional experience.
+I am actively seeking opportunities in Data Analysis, Product, and UX Design, with a focus on combining data-driven insights and user-centered approaches to create impactful solutions. My goal is to contribute to cross-functional teams while growing my expertise in analytics and product strategy.
