@@ -1,10 +1,11 @@
 # Portfolio
 
 ### Hi, I’m Nancy!
-I am a graduating student with hands-on experience in **data analytics, data science, UX/UI research, and software engineering**.
+I am a graduating student with hands-on experience in **data analytics, data science, UX/UI research, and programming**.
 My primary interest is in **full-time Data Analyst roles**, where I use data to generate insights, support decision-making, and clearly communicate findings to stakeholders.
+At the same time, I remain open to **opportunities in data science, UX design, or product management**, where I can apply my technical skills, analytical thinking, and user-centered design experience to deliver impactful solutions.
 
-This repository serves as a **central hub** linking my academic and personal projects.
+This repository serves as a **central hub** linking my [academic](https://github.com/nefelibata28/NTU-Academic-Projects) and personal projects.
 
 ---
 ## Data Analyst Projects
@@ -48,7 +49,7 @@ This repository serves as a **central hub** linking my academic and personal pro
 - **Key Features:** Feature engineering, model evaluation  
 
 ---
-
+All my academic propjects at NTU can be viewed [here](https://github.com/nefelibata28/NTU-Academic-Projects)
 
 ## Core Skills
 
