@@ -30,7 +30,7 @@ Projects applying machine learning, AI, and predictive modeling.
 
 | Project | Category | Objective | Tools | Project Origin | Link |
 |---------|----------|-----------|-------|----------------|------|
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
+| Loan Default Prediction | Machine Learning | Predict customer loyalty scores for the Elo Merchant Category Recommendation Kaggle challenge | Python (NumPy, Pandas, Scikit-learn) | Academic | [View Project](link) |
 | Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
 | Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
 
