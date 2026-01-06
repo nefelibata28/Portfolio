@@ -83,8 +83,8 @@ Product & Business Skills: Roadmaps, Metrics & KPIs, Prioritization, Stakeholder
 - **[Google UX Design](https://www.coursera.org/account/accomplishments/specialization/PJ2QESEYTUCY)**
 - **[LinkedIn Python Data Analysis](https://www.linkedin.com/learning/certificates/214a562f0ff7f617746f719db93a31d807b28fdd6960056cdec9f8fd437c890f)**
 - **[LinkedIn Python Statistics Essential Training](https://www.linkedin.com/learning/certificates/f63ad925292addf295f037a5292bbe705abb121d580593cd981ccf2512646e79)**
-- **[Academic Research Foundations: Quantitative](https://www.linkedin.com/learning/certificates/4f3961a270a0396c42bbb724a850db5ec5a4e48abdcf07e8b9db6a45800430b4)**
-- **[Data Visualization for Data Analysis and Analytics](https://www.linkedin.com/learning/certificates/5bed116f4ea6148fe596f72b0f91e05437471215e23276848719908b1b5d5c6c)**
+- **[LinkedIn Academic Research Foundations: Quantitative](https://www.linkedin.com/learning/certificates/4f3961a270a0396c42bbb724a850db5ec5a4e48abdcf07e8b9db6a45800430b4)**
+- **[LinkedIn Data Visualization for Data Analysis and Analytics](https://www.linkedin.com/learning/certificates/5bed116f4ea6148fe596f72b0f91e05437471215e23276848719908b1b5d5c6c)**
 
 ## Contact
 - **LinkedIn:** https://www.linkedin.com/in/nancy-bhati-1a442a272/
