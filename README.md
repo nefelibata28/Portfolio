@@ -53,14 +53,14 @@ Other projects that include coding, software design, networks, security, and ent
 
 | Project | Category | Objective | Tools | Project Origin | 
 |---------|----------|-----------|-------|----------------|
-| []() | Robotics & Embedded Systems | Build a multidisciplinary robotic system for autonomous exploration, obstacle avoidance, and image recognition | Python, C, Java, STM Hardware, Raspberry Pi, Android | Academic | 
-| []() | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | 
-| []() | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | 
-| []() | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | 
+| [SC2079 - Multidisciplinary Design Project (MDP)](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%203/SC2079) | Robotics & Embedded Systems | Build a multidisciplinary robotic system for autonomous exploration, obstacle avoidance, and image recognition | Python, C, Java, STM Hardware, Raspberry Pi, Android | Academic | 
+| [SC3010 - Computing Security](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%203/SC3010) | Cybersecurity | Present real-world security breaches to identify vulnerabilities and preventive measures | Microsoft PowerPoint | Academic | 
+| [SC2006 – Software Engineering](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%202/SC2006) | Software Engineering | Develop an AI-powered scheduling assistant that manages, optimizes, and syncs personal calendars. | Firebase, React, Python, Git, HTML, CSS, JavaScipt | Academic | 
+<!--| []() | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | 
 | []() | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic |
 | []() | Data Science | Classification & feature engineering | Python, Scikit-learn | External / Collaborative |
 | []() | Data Science | Classification & feature engineering | Python, Scikit-learn | External / Collaborative | 
-| []() | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | 
+| []() | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | -->
 
 
 
