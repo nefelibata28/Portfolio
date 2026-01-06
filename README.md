@@ -15,9 +15,9 @@ Projects focused on working with data, analyzing it, and visualizing insights.
 
 | Project | Category | Objective | Tools | Project Origin |
 |---------|----------|-----------|-------|----------------|
-| SC3020 - Database System Principles | Database Design & Query Optimisation | Implement relational database components, indexing & optimise SQL queries | C++, PostgreSQL, pgAdmin | Academic | 
+| [SC3020 - Database System Principles](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year4/SC3020) | Database Design & Query Optimisation | Implement relational database components, indexing & optimise SQL queries | C++, PostgreSQL, pgAdmin | Academic | 
 | [SC2207 - Introduction to Databases](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%202/SC2207) | Database Design & SQL Queries | Model, implement and query a relational database using ER diagrams and SQL | MySQL, MS SQL Server | Academic |
-| SC4024 - Data Visualisation | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | 
+| [SC4024 - Data Visualisation](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year4/SC4024) | Data Visualisation & Storytelling | Interactive visualisation to reveal data insights | Tableau, Python (pandas, numpy, matplotlib, seaborn, plotly, altair) | Academic | 
 | COVID-19 Impact Analysis | Data Science | Classification & feature engineering | Python, Scikit-learn | Personal | 
 | SC4020 - Data Analytics and Mining | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic |
 | Nashville Housing Data Cleaning | Data Science | Classification & feature engineering | Python, Scikit-learn | Personal | 
