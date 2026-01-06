@@ -9,7 +9,7 @@ At the same time, I remain open to **opportunities in data science, UX design, o
 
 This repository serves as a **central hub** linking my **[academic](https://github.com/nefelibata28/NTU-Academic-Projects) and personal projects**.
 
- **[NTU Academic Projects]((https://github.com/nefelibata28/NTU-Academic-Projects)) – A collection of my coursework and projects from Nanyang Technological University.**
+ **[NTU Academic Projects](https://github.com/nefelibata28/NTU-Academic-Projects) – A collection of my coursework and projects from Nanyang Technological University.**
 
 
 ---
