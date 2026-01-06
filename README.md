@@ -18,11 +18,11 @@ Projects focused on working with data, analyzing it, and visualizing insights.
 | SC3020 - Database System Principles | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
 | SC2207 - Introduction to Databases | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
 | SC4024 - Data Visualisation | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
-| COVID-19 Impact Analysis | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
+| COVID-19 Impact Analysis | Data Science | Classification & feature engineering | Python, Scikit-learn | Personal | [View Project](link) |
 | SC4020 - Data Analytics and Mining | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
-| Nashville Housing Data Cleaning | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
-| Movie Industry Data Analysis | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
-| Amazon Price Tracker Web Scraper | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
+| Nashville Housing Data Cleaning | Data Science | Classification & feature engineering | Python, Scikit-learn | Personal | [View Project](link) |
+| Movie Industry Data Analysis | Data Science | Classification & feature engineering | Python, Scikit-learn | Personal | [View Project](link) |
+| Amazon Price Tracker Web Scraper | Data Science | Classification & feature engineering | Python, Scikit-learn | Personal | [View Project](link) |
 
 
 ## Data Science & Machine Learning Projects
@@ -41,9 +41,9 @@ Projects focused on human-computer interaction, user-centered design, and protot
 | Project | Category | Objective | Tools | Project Origin | Link |
 |---------|----------|-----------|-------|----------------|------|
 | Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Personal | [View Project](link) |
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | External / Collaborative | [View Project](link) |
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | External / Collaborative | [View Project](link) |
 
 
 ## Others (programming, software engineering, security & business projects)
@@ -56,8 +56,8 @@ Other projects that include coding, software design, networks, security, and ent
 | Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
 | Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
 | Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | External / Collaborative | [View Project](link) |
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | External / Collaborative | [View Project](link) |
 | Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
 
 
