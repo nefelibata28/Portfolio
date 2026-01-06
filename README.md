@@ -61,7 +61,7 @@ Other projects that include coding, software design, networks, security, and ent
 
 
 
-**[NTU Academic Projects]((https://github.com/nefelibata28/NTU-Academic-Projects)) – A collection of my coursework and projects from Nanyang Technological University.**
+## **[NTU Academic Projects]((https://github.com/nefelibata28/NTU-Academic-Projects)) – A collection of my coursework and projects from Nanyang Technological University.**
 
 <!--## Core Skills
 
