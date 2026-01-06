@@ -7,34 +7,59 @@ My primary interest is in **full-time Data Analyst roles**, where I use data to 
 
 At the same time, I remain open to **opportunities in data science, UX design, or product management**, where I can apply my technical skills, analytical thinking, and user-centered design experience to deliver impactful solutions.
 
-This repository serves as a **central hub** linking my [academic](https://github.com/nefelibata28/NTU-Academic-Projects) and personal projects.
+This repository serves as a **central hub** linking my **[academic](https://github.com/nefelibata28/NTU-Academic-Projects) and personal projects**.
 
 ---
-## Database and  Analyst Projects
+## Database & Data Analytics Projects
+Projects focused on working with data, analyzing it, and visualizing insights.
 
 | Project | Category | Objective | Tools | Project Origin | Link |
 |---------|----------|-----------|-------|----------------|------|
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
 | Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
 
 
 ## Data Science & Machine Learning Projects
+Projects applying machine learning, AI, and predictive modeling.
+
 | Project | Category | Objective | Tools | Project Origin | Link |
 |---------|----------|-----------|-------|----------------|------|
 | Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
 
 ## UX/UI Projects
+Projects focused on human-computer interaction, user-centered design, and prototyping.
 
 | Project | Type | Focus | Tools | Link |
 | Project | Category | Objective | Tools | Project Origin | Link |
 |---------|----------|-----------|-------|----------------|------|
 | Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
 
 
-## Others (programming, software engineering, networking, security & business)
+## Others (programming, software engineering, security & business projects)
+Other projects that include coding, software design, networks, security, and entrepreneurship/business modules.
 
 | Project | Category | Objective | Tools | Project Origin | Link |
 |---------|----------|-----------|-------|----------------|------|
 | Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
+
 
 
 ### 📊 [SC4024/CZ4124 Data Visualisation Project](https://github.com/nancy-bhati/data-visualisation-project)
@@ -51,7 +76,7 @@ This repository serves as a **central hub** linking my [academic](https://github
 - **Key Features:** Feature engineering, model evaluation  
 
 ---
-All my academic propjects at NTU can be viewed [here](https://github.com/nefelibata28/NTU-Academic-Projects)
+All my academic coursewwwork/propjects at NTU can be viewed [here](https://github.com/nefelibata28/NTU-Academic-Projects)
 
 ## Core Skills
 
@@ -74,8 +99,6 @@ Product & Business Skills: Roadmaps, Metrics & KPIs, Prioritization, Stakeholder
 - **[LinkedIn Python Statistics Essential Training](https://www.linkedin.com/learning/certificates/f63ad925292addf295f037a5292bbe705abb121d580593cd981ccf2512646e79)**
 - **[Academic Research Foundations: Quantitative](https://www.linkedin.com/learning/certificates/4f3961a270a0396c42bbb724a850db5ec5a4e48abdcf07e8b9db6a45800430b4)**
 - **[Data Visualization for Data Analysis and Analytics](https://www.linkedin.com/learning/certificates/5bed116f4ea6148fe596f72b0f91e05437471215e23276848719908b1b5d5c6c)**
-
----
 
 ## Contact
 - **LinkedIn:** https://www.linkedin.com/in/nancy-bhati-1a442a272/
