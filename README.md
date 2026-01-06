@@ -50,34 +50,20 @@ Other projects that include coding, software design, networks, security, and ent
 
 | Project | Category | Objective | Tools | Project Origin | 
 |---------|----------|-----------|-------|----------------|
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | 
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | 
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | 
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | 
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic |
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | External / Collaborative |
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | External / Collaborative | 
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | 
+| []() | Robotics & Embedded Systems | Build a multidisciplinary robotic system for autonomous exploration, obstacle avoidance, and image recognition | Python, C, Java, STM Hardware, Raspberry Pi, Android | Academic | 
+| []() | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | 
+| []() | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | 
+| []() | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | 
+| []() | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic |
+| []() | Data Science | Classification & feature engineering | Python, Scikit-learn | External / Collaborative |
+| []() | Data Science | Classification & feature engineering | Python, Scikit-learn | External / Collaborative | 
+| []() | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | 
 
 
 
-### 📊 [SC4024/CZ4124 Data Visualisation Project](https://github.com/nancy-bhati/data-visualisation-project)
-- **Topic:** Exploratory and explanatory data storytelling  
-- **Tools:** Python, Tableau  
-- **[Video Presentation](https://youtu.be/0Hi8lmyG0qA)**  
-- **[Project Overview](https://entuedu-my.sharepoint.com/:b:/g/personal/nancy001_e_ntu_edu_sg/...)**
+**[NTU Academic Projects]((https://github.com/nefelibata28/NTU-Academic-Projects)) – A collection of my coursework and projects from Nanyang Technological University.**
 
----
-
-### 🤖 [Machine Learning Final Project](https://github.com/nancy-bhati/ml-final-project)
-- **Topic:** Predicting customer churn  
-- **Tools:** Scikit-learn, Pandas  
-- **Key Features:** Feature engineering, model evaluation  
-
----
-All my academic coursewwwork/propjects at NTU can be viewed [here](https://github.com/nefelibata28/NTU-Academic-Projects)
-
-## Core Skills
+<!--## Core Skills
 
 | Data Analytics | Visualization | Statistics | Tools & Databases |
 |--------------|--------------|------------|------------------|
@@ -88,7 +74,7 @@ All my academic coursewwwork/propjects at NTU can be viewed [here](https://githu
 | KPI & Business Analysis | Dashboards | Probability | GitHub 
 Technical & Data Skills: SQL, Python, Excel, Tableau, A/B Testing
 UX & Design Skills: Figma, User Research, Wireframing, Usability Testing
-Product & Business Skills: Roadmaps, Metrics & KPIs, Prioritization, Stakeholder Communication
+Product & Business Skills: Roadmaps, Metrics & KPIs, Prioritization, Stakeholder Communication -->
 
 ## Certifications
 - **[Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/I0412Y14SJL9)**
