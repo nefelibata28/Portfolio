@@ -25,7 +25,7 @@ Projects focused on working with data, analyzing it, and visualizing insights.
 | [SC4020 - Data Analytics and Mining](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%203/SC4020) | Clustering, Classification & Analysis) | Explore patterns, predict outcomes, and analyze datasets | Python, VS Code, Jupyter Notebook | Academic |
 | [Nashville Housing Data Cleaning](https://github.com/nefelibata28/Nashville-Housing-Data-Cleaning-Project) | Data Cleaning | CClean, standardize, and structure raw data | Microsoft SQL Server (SSMS), T-SQL | Personal | 
 | [Movie Industry Data Analysis](https://github.com/nefelibata28/Movie-Industry-Data-Analysis) | Data Analysis & Visualization | Analyze factors influencing movie revenue and performance | Python (Pandas, NumPy, Matplotlib, Seaborn)| Personal | 
-| [Amazon Price Tracker Web Scraper](https://github.com/nefelibata28/Amazon-Price-Tracker-Web-Scraper) | Web Scraping & Automation | Track product prices over time and trigger alerts on price drops | Python | Personal |
+<!--| [Amazon Price Tracker Web Scraper](https://github.com/nefelibata28/Amazon-Price-Tracker-Web-Scraper) | Web Scraping & Automation | Track product prices over time and trigger alerts on price drops | Python | Personal | --->
 
 
 ## Data Science, AI & Machine Learning Projects
