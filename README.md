@@ -13,16 +13,16 @@ This repository serves as a **central hub** linking my **[academic](https://gith
 ## Database & Data Analytics Projects
 Projects focused on working with data, analyzing it, and visualizing insights.
 
-| Project | Category | Objective | Tools | Project Origin | Link |
-|---------|----------|-----------|-------|----------------|------|
-| SC3020 - Database System Principles | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
-| SC2207 - Introduction to Databases | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
-| SC4024 - Data Visualisation | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
-| COVID-19 Impact Analysis | Data Science | Classification & feature engineering | Python, Scikit-learn | Personal | [View Project](link) |
-| SC4020 - Data Analytics and Mining | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
-| Nashville Housing Data Cleaning | Data Science | Classification & feature engineering | Python, Scikit-learn | Personal | [View Project](link) |
-| Movie Industry Data Analysis | Data Science | Classification & feature engineering | Python, Scikit-learn | Personal | [View Project](link) |
-| Amazon Price Tracker Web Scraper | Data Science | Classification & feature engineering | Python, Scikit-learn | Personal | [View Project](link) |
+| Project | Category | Objective | Tools | Project Origin |
+|---------|----------|-----------|-------|----------------|
+| SC3020 - Database System Principles | Database Design & Query Optimisation | Implement relational database components, indexing & optimise SQL queries | C++, PostgreSQL, pgAdmin | Academic | 
+| SC2207 - Introduction to Databases | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic |
+| SC4024 - Data Visualisation | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | 
+| COVID-19 Impact Analysis | Data Science | Classification & feature engineering | Python, Scikit-learn | Personal | 
+| SC4020 - Data Analytics and Mining | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic |
+| Nashville Housing Data Cleaning | Data Science | Classification & feature engineering | Python, Scikit-learn | Personal | 
+| Movie Industry Data Analysis | Data Science | Classification & feature engineering | Python, Scikit-learn | Personal | 
+| Amazon Price Tracker Web Scraper | Data Science | Classification & feature engineering | Python, Scikit-learn | Personal |
 
 
 ## Data Science & Machine Learning Projects
