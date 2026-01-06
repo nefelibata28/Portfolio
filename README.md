@@ -32,7 +32,7 @@ Projects applying machine learning, AI, and predictive modeling.
 |---------|----------|-----------|-------|----------------|
 | [SC4000 – Machine Learning](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%203/SC4000_Project) | Machine Learning | Predict customer loyalty scores for the Elo Merchant Category Recommendation Kaggle challenge | Python (NumPy, Pandas, Scikit-learn) | Academic |
 | [SC1015 - Introduction to Data Science and Artificial Intelligence](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%201/SC1015) | Data Science (Clustering & Unsupervised Learning) | Identify player trends and subgroup patterns in Steam games | Python (pandas, numpy, matplotlib, seaborn, scikit-learn, plotly) | Academic |
-| Loan Default Prediction | Artificial Intelligence & Logic Programming | Implement reinforcement learning and logic-based reasoning to solve decision-making problems | Python, Prolog, SWISH | Academic |
+| [SC3000 – Artificial Intelligence](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%203/SC3000%20Lab) | Artificial Intelligence & Logic Programming | Implement reinforcement learning and logic-based reasoning to solve decision-making problems | Python, Prolog, SWISH | Academic |
 
 ## UX/UI Projects
 Projects focused on human-computer interaction, user-centered design, and prototyping.
