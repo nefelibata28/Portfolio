@@ -25,40 +25,39 @@ Projects focused on working with data, analyzing it, and visualizing insights.
 | [Amazon Price Tracker Web Scraper](https://github.com/nefelibata28/Amazon-Price-Tracker-Web-Scraper) | Web Scraping & Automation | Track product prices over time and trigger alerts on price drops | Python | Personal |
 
 
-## Data Science & Machine Learning Projects
+## Data Science, AI & Machine Learning Projects
 Projects applying machine learning, AI, and predictive modeling.
 
-| Project | Category | Objective | Tools | Project Origin | Link |
-|---------|----------|-----------|-------|----------------|------|
-| Loan Default Prediction | Machine Learning | Predict customer loyalty scores for the Elo Merchant Category Recommendation Kaggle challenge | Python (NumPy, Pandas, Scikit-learn) | Academic | [View Project](link) |
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
+| Project | Category | Objective | Tools | Project Origin |
+|---------|----------|-----------|-------|----------------|
+| [SC4000 – Machine Learning](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%203/SC4000_Project) | Machine Learning | Predict customer loyalty scores for the Elo Merchant Category Recommendation Kaggle challenge | Python (NumPy, Pandas, Scikit-learn) | Academic |
+| [SC1015 - Introduction to Data Science and Artificial Intelligence](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%201/SC1015) | Data Science (Clustering & Unsupervised Learning) | Identify player trends and subgroup patterns in Steam games | Python (pandas, numpy, matplotlib, seaborn, scikit-learn, plotly) | Academic |
+| Loan Default Prediction | Artificial Intelligence & Logic Programming | Implement reinforcement learning and logic-based reasoning to solve decision-making problems | Python, Prolog, SWISH | Academic |
 
 ## UX/UI Projects
 Projects focused on human-computer interaction, user-centered design, and prototyping.
 
-| Project | Type | Focus | Tools | Link |
-| Project | Category | Objective | Tools | Project Origin | Link |
-|---------|----------|-----------|-------|----------------|------|
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Personal | [View Project](link) |
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | External / Collaborative | [View Project](link) |
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | External / Collaborative | [View Project](link) |
+| Project | Category | Objective | Tools | Project Origin |
+|---------|----------|-----------|-------|----------------|
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic |
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Personal | 
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | External / Collaborative |
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | External / Collaborative |
 
 
 ## Others (programming, software engineering, security & business projects)
 Other projects that include coding, software design, networks, security, and entrepreneurship/business modules.
 
-| Project | Category | Objective | Tools | Project Origin | Link |
-|---------|----------|-----------|-------|----------------|------|
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | External / Collaborative | [View Project](link) |
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | External / Collaborative | [View Project](link) |
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
+| Project | Category | Objective | Tools | Project Origin | 
+|---------|----------|-----------|-------|----------------|
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | 
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | 
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | 
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | 
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic |
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | External / Collaborative |
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | External / Collaborative | 
+| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | 
 
 
 
