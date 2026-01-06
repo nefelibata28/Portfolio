@@ -10,7 +10,7 @@ At the same time, I remain open to **opportunities in data science, UX design, o
 This repository serves as a **central hub** linking my [academic](https://github.com/nefelibata28/NTU-Academic-Projects) and personal projects.
 
 ---
-## Data Analyst Projects
+## Database and  Analyst Projects
 
 | Project | Category | Objective | Tools | Project Origin | Link |
 |---------|----------|-----------|-------|----------------|------|
@@ -30,7 +30,7 @@ This repository serves as a **central hub** linking my [academic](https://github
 | Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | [View Project](link) |
 
 
-## Others
+## Others (programming, software engineering, networking, security & business)
 
 | Project | Category | Objective | Tools | Project Origin | Link |
 |---------|----------|-----------|-------|----------------|------|
