@@ -9,6 +9,9 @@ At the same time, I remain open to **opportunities in data science, UX design, o
 
 This repository serves as a **central hub** linking my **[academic](https://github.com/nefelibata28/NTU-Academic-Projects) and personal projects**.
 
+ **[NTU Academic Projects]((https://github.com/nefelibata28/NTU-Academic-Projects)) – A collection of my coursework and projects from Nanyang Technological University.**
+
+
 ---
 ## Database & Data Analytics Projects
 Projects focused on working with data, analyzing it, and visualizing insights.
@@ -60,8 +63,6 @@ Other projects that include coding, software design, networks, security, and ent
 | []() | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | 
 
 
-
-## **[NTU Academic Projects]((https://github.com/nefelibata28/NTU-Academic-Projects)) – A collection of my coursework and projects from Nanyang Technological University.**
 
 <!--## Core Skills
 
