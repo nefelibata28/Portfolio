@@ -43,8 +43,8 @@ Projects focused on human-computer interaction, user-centered design, and protot
 | Project | Category | Objective | Tools | Project Origin |
 |---------|----------|-----------|-------|----------------|
 | [SC3061 - Human Computer Interaction](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year4/SC3061) | UX Design | Design low- and high-fidelity prototypes and evaluate usability based on a case study | Microsoft PowerPoint, Microsoft Word, Canva | Academic |
-<!--| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | Personal | 
-| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | External / Collaborative |
+| [Google UX Design Course Project](https://drive.google.com/file/d/1WNJiKfoM02ocP2sreIOkWMaDbird173L/view?usp=sharing) | UX/UI Design | Design a user-centered, accessible, and intuitive app for parents to efficiently buy and resell children’s clothing | Figma, Google Docs & Sheet | Personal | 
+<!--| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | External / Collaborative |
 | Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | External / Collaborative |-->
 
 
