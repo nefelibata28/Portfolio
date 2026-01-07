@@ -25,6 +25,7 @@ Projects focused on working with data, analyzing it, and visualizing insights.
 | [SC4020 - Data Analytics and Mining](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%203/SC4020) | Clustering, Classification & Analysis) | Explore patterns, predict outcomes, and analyze datasets | Python, VS Code, Jupyter Notebook | Academic |
 | [Nashville Housing Data Cleaning](https://github.com/nefelibata28/Nashville-Housing-Data-Cleaning-Project) | Data Cleaning | CClean, standardize, and structure raw data | Microsoft SQL Server (SSMS), T-SQL | Personal | 
 | [Movie Industry Data Analysis](https://github.com/nefelibata28/Movie-Industry-Data-Analysis) | Data Analysis & Visualization | Analyze factors influencing movie revenue and performance | Python (Pandas, NumPy, Matplotlib, Seaborn)| Personal | 
+| ["CAO Own-IT" VOICE OF THE STUDENTS - Career & Attachments Office, NTU](https://drive.google.com/file/d/1Tnfhk8xGYW8jWvg-2ms6yqd-NUi6QzD4/view?usp=sharing) |Student Research / Data Analysis | Provide actionable recommendations to improve student engagement and optimize Career & Attachments Office (CAO) operations | Excel, Canva | External / Collaborative | 
 <!--| [Amazon Price Tracker Web Scraper](https://github.com/nefelibata28/Amazon-Price-Tracker-Web-Scraper) | Web Scraping & Automation | Track product prices over time and trigger alerts on price drops | Python | Personal | --->
 
 
@@ -60,7 +61,7 @@ Other projects that include coding, software design, networks, security, and ent
 | ET5131 - VENTURING INTO ENTREPRENEURSHIP | Entrepreneurship | Develop and launch a preventive TCM-based health beverage for working adults, promoting cardiovascular wellness while ensuring affordability, taste, and sustainability. <br> [Report](https://drive.google.com/file/d/1iaSqp_TazLAut6Q3XM35Vv3pqyyzLgF7/view?usp=sharing) / [Slides](https://drive.google.com/file/d/180SQXFU8nfqFShjq717wBo2dHtI2SAa_/view?usp=sharing) </br> | Canva, Google Docs | Academic | 
 | [ET5132 - NEW VENTURE FINANCING](https://drive.google.com/file/d/155YN65jwPO3xBsgk_ppLLf5sPQWc-kqZ/view?usp=sharing) | Business / Entrepreneurship | Analyze Starbucks’ revenue streams, cost structure, and business model to provide actionable recommendations for growth, operational efficiency, and customer engagement. | Canva, Google Docs | Academic |
 | [ET5133 -  MANAGING GROWING ENTERPRISES](https://drive.google.com/file/d/1-jNOUgfvD4mn_1ZtD11llHW3kNeZbU2N/view?usp=sharing) | Business / Entrepreneurship | To analyze a home healthcare service provider and provide strategic recommendations for improving services, expanding reach, and enhancing patient care. | Canva, Google Docs | Academic |
-<!--| []() | Data Science | Classification & feature engineering | Python, Scikit-learn | External / Collaborative | 
+
 <!--| []() | Data Science | Classification & feature engineering | Python, Scikit-learn | Academic | -->
 
 
