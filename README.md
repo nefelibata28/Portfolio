@@ -66,9 +66,18 @@ Other projects that include coding, software design, networks, security, and ent
 
 
 
-<!--## Core Skills
+## Core Skills
+| Category                     | Skills & Tools                                                                 |
+|-------------------------------|-------------------------------------------------------------------------------|
+| **Programming & Data Analysis** | Python (pandas, NumPy, matplotlib, seaborn, plotly), R, SQL, C, C++, Java, HTML |
+| **Data Analytics & Visualization** | Data Cleaning, EDA, Tableau, Power BI, Excel (PivotTables, VBA), Google Sheets, Dashboards |
+| **UX / Product Design**        | Wireframing, Prototyping, User Research, Usability Testing, Interaction Design, Journey Mapping, Information Architecture, Sitemap, Product Roadmapping |
+| **Design & Prototyping Tools** | Figma, Canva, PowerPoint (hi-fi simulations), Miro                             |
+| **Software & Automation Tools** | MS SQL Server (SSMS), PostgreSQL, MySQL, Firebase, React, UiPath (RPA), Power Automate, SharePoint, Postman, VS Code, Jupyter Notebook, Git/GitHub |
+| **Languages**                  | Hindi (Native), English (Fluent), Korean (Level 1)                             |
 
-| Data Analytics | Visualization | Statistics | Tools & Databases |
+
+<!--| Data Analytics | Visualization | Statistics | Tools & Databases |
 |--------------|--------------|------------|------------------|
 | SQL | Tableau | Hypothesis Testing | Git |
 | Python (Pandas, NumPy) | Power BI | A/B Testing | Jupyter Notebook |
