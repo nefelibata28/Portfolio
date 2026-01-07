@@ -18,9 +18,9 @@ Projects focused on working with data, analyzing it, and visualizing insights.
 
 | Project | Category | Objective | Tools | Project Origin |
 |---------|----------|-----------|-------|----------------|
-| [SC3020 - Database System Principles](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year4/SC3020) | Database Design & Query Optimisation | Implement relational database components, indexing & optimise SQL queries | C++, PostgreSQL, pgAdmin | Academic | 
 | [SC2207 - Introduction to Databases](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%202/SC2207) | Database Design & SQL Queries | Model, implement and query a relational database using ER diagrams and SQL | MySQL, Microsoft SQL Server | Academic |
 | [SC4024 - Data Visualisation](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year4/SC4024) | Data Visualisation & Storytelling | Interactive visualisation to reveal data insights | Tableau, Python (pandas, numpy, matplotlib, seaborn, plotly, altair) | Academic | 
+| [SC3020 - Database System Principles](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year4/SC3020) | Database Design & Query Optimisation | Implement relational database components, indexing & optimise SQL queries | C++, PostgreSQL, pgAdmin | Academic | 
 | [COVID-19 Impact Analysis](https://github.com/nefelibata28/COVID-19-Impact-Analysis-SQL-Tableau) | Data Analysis & Visualization | Analyze COVID-19 trends and vaccination impact | Microsoft SQL Server (SSMS), Tableau | Personal | 
 | [SC4020 - Data Analytics and Mining](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year%203/SC4020) | Clustering, Classification & Analysis) | Explore patterns, predict outcomes, and analyze datasets | Python, VS Code, Jupyter Notebook | Academic |
 | [Nashville Housing Data Cleaning](https://github.com/nefelibata28/Nashville-Housing-Data-Cleaning-Project) | Data Cleaning | CClean, standardize, and structure raw data | Microsoft SQL Server (SSMS), T-SQL | Personal | 
