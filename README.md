@@ -99,7 +99,7 @@ Product & Business Skills: Roadmaps, Metrics & KPIs, Prioritization, Stakeholder
 
 ## Contact
 - **LinkedIn:** https://www.linkedin.com/in/nancy-bhati-1a442a272/
-- **GitHub:** https://github.com/nancy-bhati
+- **GitHub:** https://github.com/nefelibata28/Portfolio
 - **Email:** nancybhati15@gmail.com
 
 ## Career Goal
