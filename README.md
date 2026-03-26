@@ -46,6 +46,7 @@ Projects focused on human-computer interaction, user-centered design, and protot
 | [SC3061 - Human Computer Interaction](https://github.com/nefelibata28/NTU-Academic-Projects/tree/main/Year4/SC3061) | UX Design | Design low- and high-fidelity prototypes and evaluate usability based on a case study | Microsoft PowerPoint, Microsoft Word, Canva | Academic |
 | [Google UX Design Course Project](https://drive.google.com/file/d/1WNJiKfoM02ocP2sreIOkWMaDbird173L/view?usp=sharing) | UX/UI Design | Design a user-centered, accessible, and intuitive app for parents to efficiently buy and resell children’s clothing | Figma, Google Docs & Sheet | Personal | 
 | NTU Peak ASEAN Programme – Himawari Hotels & Apartments | UX/UI Design |Provide actionable recommendations to help the company achieve its business objectives. <br> [All recommendations](https://drive.google.com/file/d/1WqlMEysrTtCo0oTDDjSTQ-WiHaxoD84Y/view?usp=sharing)/ [Website Improvement Recommendations](https://drive.google.com/file/d/1rZ88fTOH3wxnwnCkRqzez23odUzT9Tlz/view?usp=sharing) </br> | Canva | External / Collaborative |
+| NTU Peak Programme – UOB | UX/UI Design |Created a digital solution to improve efficiency, transparency and support in sustainability financing pre-processing for clients. <br> [Slides](https://docs.google.com/presentation/d/14QyyTlIzl69mayawdb3qrRbxrOMGsFUK/edit?usp=sharing&ouid=116397926727596929720&rtpof=true&sd=true)/ [UI Mockup](https://greenpathuob.lovable.app/) </br> | Lovable, Canva | External / Collaborative |
 <!--| Loan Default Prediction | Data Science | Classification & feature engineering | Python, Scikit-learn | External / Collaborative |-->
 
 
@@ -103,4 +104,4 @@ Product & Business Skills: Roadmaps, Metrics & KPIs, Prioritization, Stakeholder
 - **Email:** nancybhati15@gmail.com
 
 ## Career Goal
-I am actively seeking opportunities in Data Analysis, Product, and UX Design, with a focus on combining data-driven insights and user-centered approaches to create impactful solutions. My goal is to contribute to cross-functional teams while growing my expertise in analytics and product strategy.
+I am actively seeking opportunities in Data Analysis, Product Management, and UX Design, with a focus on combining data-driven insights and user-centered approaches to create impactful solutions. My goal is to contribute to cross-functional teams while growing my expertise in analytics and product strategy.
